@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+
+}
+
+.fundao {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    height: 200px;
+}
+
+.titulo {
+    font-size: 80px;
+    color: white;
+
+}
